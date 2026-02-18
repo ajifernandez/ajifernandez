@@ -40,10 +40,15 @@ A full-stack healthcare platform for medical appointments and video consultation
 - **Tech**: FastAPI, Next.js, PostgreSQL, Docker, Jitsi integration.
 - **Highlights**: Roles management, AES-256 patient data encryption, GDPR compliance.
 
-### 🏥 [Contigo Centro Médico](https://github.com/ajifernandez/contigo_centro_medico)
-Professional clinic management side and landing page.
-- **Tech**: Modern HTML5, CSS3, JavaScript.
-- **Highlights**: SEO local optimization, Performance focus, Responsive Design.
+### 👩‍⚕️ [Dra. Beatriz Jiménez Canet](https://github.com/ajifernandez/beatriz.tumedicadefamilia)
+A professional medical landing page for a family doctor.
+- **Tech**: HTML5, Tailwind CSS, JavaScript Vanilla.
+- **Highlights**: SEO advanced optimization, fully responsive, automated deployment with Netlify.
+
+### 🌍 [Salud-Medical Volunteers](https://github.com/ajifernandez/salud_project)
+Volunteer organization platform supporting medical communities in Uganda.
+- **Tech**: HTML5, CSS3, JavaScript.
+- **Highlights**: SEO for non-profits, mobile-first design, focused on international medical volunteering.
 
 ### 🌐 [Personal Website](https://github.com/ajifernandez/personalWebSite)
 My professional portfolio redesigned with a clean, modern aesthetic.
