@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a dedicated **Software Engineer** with nearly **14 years of experience** building reliable, high-quality products. I believe a strong, aligned team is the key to shipping software that truly matters — and I give everything to make that happen.
+I’m a dedicated **Senior Software Engineer** with nearly **14 years of experience** building reliable, high-quality products. I believe a strong, aligned team is the key to shipping software that truly matters — and I give everything to make that happen.
 
 Currently at **Plytix**, I work closely with designers, product managers, and fellow engineers to deliver features that create real value for customers. I thrive in collaborative environments where ownership, craft, and continuous improvement are valued.
 
