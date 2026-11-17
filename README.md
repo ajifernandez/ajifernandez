@@ -3,7 +3,7 @@
 <p align="center">Senior Software Engineer | Backend & Platform Engineering</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+@+Plytix+%F0%9F%92%BB;14+Years+of+Experience+%F0%9F%9A%80;Crafting+Software+Solutions+%E2%9C%A8;Building+Impactful+Apps+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+@+Plytix+%F0%9F%92%BB;14+Years+of+Experience+%F0%9F%9A%80;Crafting+Software+Solutions+%E2%9C%A8;Building+Impactful+Apps+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,12 +29,28 @@ Currently at **Plytix**, I work closely with designers, product managers, and fe
 | Angular | Python (FastAPI, Django) | Docker & Kubernetes | PostgreSQL & MongoDB |
 | HTML5 & CSS3 | Java (Spring, Hibernate) | Linux & OpenShift | Redis & RabbitMQ |
 | JavaScript (ES6+) | RESTful APIs | CI/CD (GitHub Actions) | MySQL & Oracle |
+| TypeScript | Node.js | Nginx | SQLite |
 
 ---
 
 ## 📌 Featured Projects
 
 Here is what I'm working on:
+
+### 🚀 [Telemed](https://github.com/ajifernandez/telemed)
+A full-stack healthcare platform for medical appointments and video consultations.
+- **Tech**: FastAPI, Next.js, PostgreSQL, Docker, Jitsi integration.
+- **Highlights**: Roles management, AES-256 patient data encryption, GDPR compliance.
+
+### 👩‍⚕️ [Dra. Beatriz Jiménez Canet](https://www.beatriztumedicadefamilia.es/)
+A professional medical landing page for a family doctor.
+- **Tech**: HTML5, Tailwind CSS, JavaScript Vanilla.
+- **Highlights**: SEO advanced optimization, fully responsive, automated deployment with Netlify.
+
+### 🌍 [Salud-Medical Volunteers](https://github.com/ajifernandez/salud_project)
+Volunteer organization platform supporting medical communities in Uganda.
+- **Tech**: HTML5, CSS3, JavaScript.
+- **Highlights**: SEO for non-profits, mobile-first design, focused on international medical volunteering.
 
 ### 🌐 [Personal Website](https://github.com/ajifernandez/personalWebSite)
 My professional portfolio, with a dark, minimal design.
@@ -46,8 +62,8 @@ My professional portfolio, with a dark, minimal design.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajifernandez&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajifernandez&layout=compact&theme=tokyonight" alt="Top Languages" width="300"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=ajifernandez&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="450"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ajifernandez&layout=compact&theme=tokyonight" alt="Top Languages" width="300"/>
 </p>
 
 ---
